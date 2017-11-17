@@ -1,0 +1,19 @@
+{
+  "name": "reto1hackspace",
+  "version": "1.0.0",
+  "description": "reto para coreUpgrade",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "reto"
+  ],
+  "author": "ArnoldLC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "swig": "^1.4.2"
+  }
+}
